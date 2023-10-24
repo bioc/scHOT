@@ -1,7 +1,7 @@
 Package: scHOT
 Type: Package
 Title: single-cell higher order testing
-Version: 1.13.0
+Version: 1.14.0
 Authors@R: c(
     person("Shila", "Ghazanfar", email = "shazanfar@gmail.com", role = c("aut", "cre")
     ),
